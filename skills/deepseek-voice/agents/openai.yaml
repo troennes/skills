@@ -1,0 +1,4 @@
+interface:
+  display_name: "DeepSeek Voice DNA"
+  short_description: "Write and edit in DeepSeek technical voice"
+  default_prompt: "Use $deepseek-voice to rewrite this content in DeepSeek technical brand voice."
