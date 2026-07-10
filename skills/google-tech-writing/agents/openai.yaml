@@ -1,0 +1,4 @@
+interface:
+  display_name: "Google Technical Writing Lite"
+  short_description: "Draft and review clear technical documentation"
+  default_prompt: "Use $google-tech-writing-lite to draft or review this technical document for clarity and usability."
